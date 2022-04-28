@@ -1,7 +1,7 @@
 languages = {
 	"hien" : [ "हिन्दी","Krish Yadav"],
     "enen" : [ "English","Krish Yadav"],    
-    "mren" : [ "Marathi","Yash Yadav"],
+    "maen" : [ "Marathi","Yash Yadav"],
 	"mlen" : [ "malayalam","AUTO GENERATED"],
 	"neen" : [ "nepali","AUTO GENERATED"],
 	"caen" : [ "catalan","AUTO GENERATED"],
