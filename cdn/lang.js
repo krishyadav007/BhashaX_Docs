@@ -289,7 +289,7 @@ hien = {
         "परिमित":"isFinite",
         "isNaN":"isNaN",
         "":"isPrototypeOf",
-        "लंबाई1":"length",
+        "लंबाई":"length",
         "गणित":"Math",
         "नेन":"NaN",
         "नाम":"name",
