@@ -228,14 +228,15 @@ hien = {
         "TypeError":"त्रुटि प्रकार",
         "URIError":"यूआरआई त्रुटि",
         "AggregateError":"कुल त्रुटि",
-	"Encountered error at position":"",
-	"at charachter":"",
-	"Unterminated comment":"",
-	"Unterminated string":"",
-	"Unterminated number":"",
-	"Unexpected token":"",
-	"Missing paranthesis":"",
-	"Unterminated multi-line comment":"",
+	"Encountered error":"त्रुटि का सामना करना पड़ा",
+	"Position":"स्थिति",
+	"Character":"अक्षर",
+	"Unterminated comment":"असमाप्‍त व्याख्या",
+	"Unterminated string":"असमाप्‍त तार",
+	"Unterminated number":"असमाप्‍त संख्या",
+	"Unexpected token":"अप्रत्याशित प्रतीक",
+	"Missing paranthesis":"असमाप्‍त व्याख्या",
+	"Unterminated multi-line comment":"असमाप्‍त बहु-पंक्ति व्याख्या",
     }
 }
 
