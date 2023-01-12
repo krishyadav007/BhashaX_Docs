@@ -227,7 +227,15 @@ hien = {
         "SyntaxError":"वक्य रचना त्रुटि",
         "TypeError":"त्रुटि प्रकार",
         "URIError":"यूआरआई त्रुटि",
-        "AggregateError":"कुल त्रुटि"
+        "AggregateError":"कुल त्रुटि",
+	"Encountered error at position":"",
+	"at charachter":"",
+	"Unterminated comment":"",
+	"Unterminated string":"",
+	"Unterminated number":"",
+	"Unexpected token":"",
+	"Missing paranthesis":"",
+	"Unterminated multi-line comment":"",
     }
 }
 
