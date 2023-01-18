@@ -277,7 +277,7 @@ maen = {
         "शेवटी":"finally",
         "फ्लोट":"float",
         "पुन्हा":"for",
-        "कार्य":"function",
+        "कृत्य":"function",
         "जा":"goto",
         "ज़र ":"if",
         "अंमलबजावणी":"implements",
@@ -347,6 +347,15 @@ maen = {
         "SyntaxError":"वाक्यरचनेचीचूक",
         "TypeError":"प्रकारचीचूक",
         "URIError":"युआरआईचीचूक",
-        "AggregateError":"एकूणचीचूक"
+        "AggregateError":"एकूणचीचूक",
+	"Encountered error":"त्रुटि का सामना करना पड़ा",
+	"Position":"स्थिति",
+	"Character":"अक्षर",
+	"Unterminated comment":"असमाप्‍त व्याख्या",
+	"Unterminated string":"असमाप्‍त तार",
+	"Unterminated number":"असमाप्‍त संख्या",
+	"Unexpected token":"अप्रत्याशित प्रतीक",
+	"Missing paranthesis":"असमाप्‍त व्याख्या",
+	"Unterminated multi-line comment":"असमाप्‍त बहु-पंक्ति व्याख्या",
     }
 }
