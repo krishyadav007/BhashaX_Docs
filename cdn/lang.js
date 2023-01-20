@@ -1,7 +1,7 @@
 languages = {
 	"hien" : [ "हिन्दी","Krish Yadav"],
 	"enen" : [ "English","Krish Yadav"],
-	"maen" : [ "Marathi","Yash Yadav"],
+	"maen" : [ "Marathi","Krish Yadav"],
 }
 
 
@@ -241,7 +241,7 @@ hien = {
 }
 
 maen = {
-    "AUTHOR": "Yash Yadav",
+    "AUTHOR": "Krish Yadav",
     "VERSION": "1.0.0",
     "LANG": {"MA" : "EN"},
     "LANGUAGE": {"MARATHI" : "ENGLISH"},
